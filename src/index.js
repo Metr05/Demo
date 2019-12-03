@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.png';
 import ReactDOM from 'react-dom';
-import {MYBTN,SimpleTabs} from './component/navbar'
+import {SimpleTabs} from './component/navbar'
 import './index.css';
 import Chip from '@material-ui/core/Chip';
 import DoneAllIcon from '@material-ui/icons/DoneAll';
